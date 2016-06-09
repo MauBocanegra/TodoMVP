@@ -10,4 +10,4 @@ Uses
 * Notifications
 * AlarmManager
 
-Coded with MVP Android Architecture
+# Feature coded using MVP Android Architecture
